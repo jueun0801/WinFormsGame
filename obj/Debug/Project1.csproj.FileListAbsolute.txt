@@ -1,0 +1,45 @@
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\Project1.exe.config
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\Project1.exe
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\Project1.pdb
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\EntityFramework.dll
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\EntityFramework.SqlServer.dll
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\EntityFramework.xml
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\EntityFramework.SqlServer.xml
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\Interop.WMPLib.dll
+C:\MSSA\20483\Assignments\PROJECT\Project1\bin\Debug\AxInterop.WMPLib.dll
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Interop.WMPLib.dll
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\AxInterop.WMPLib.dll
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.Form1.resources
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.Loading.resources
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.exe
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.pdb
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\Project1.exe.config
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\Project1.exe
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\Project1.pdb
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\EntityFramework.dll
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\EntityFramework.SqlServer.dll
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\EntityFramework.xml
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\EntityFramework.SqlServer.xml
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\Interop.WMPLib.dll
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\bin\Debug\AxInterop.WMPLib.dll
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Interop.WMPLib.dll
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\AxInterop.WMPLib.dll
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.Form1.resources
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.Loading.resources
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.exe
+C:\MSSA\20483\Assignments\0. PROJECT\Project1\obj\Debug\Project1.pdb
+C:\MSSA\20483\Assignments\PROJECT\Project1\obj\Debug\Project1.Boss.resources
